@@ -61,22 +61,8 @@
 - **라이브러리**: pandas, numpy, seaborn, matplotlib
 - **데이터 수집**: BeautifulSoup, Selenium
 
-## 8️⃣ 실행 방법
-```sh
-# 필요한 라이브러리 설치
-pip install -r requirements.txt
 
-# 데이터 수집 실행
-python data_crawling.py
-
-# 데이터 분석 실행
-python data_analysis.py
-
-# 시각화 실행
-python visualization.py
-```
-
-## 9️⃣ 프로젝트 구조
+## 8️⃣ 프로젝트 구조
 ```
 📂 프로젝트 루트
 ├── 📄 README.md  # 프로젝트 설명 파일 (프로젝트에 대한 개요 및 사용 방법 등 설명)
